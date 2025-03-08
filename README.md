@@ -6,7 +6,7 @@ A simple and interactive counter application built using **React.js**. This app 
 
 ## 🖼️ Preview
 
-![Counter App Screenshot](https://your-screenshot-link)
+![Counter App Screenshot]https://github.com/Srinidhi2228/react-counter-app/blob/main/Screenshot%202025-03-08%20182903.png?raw=true
 (*Add a screenshot of your app – you can upload an image to your repository and update the link here.*)
 
 ---
